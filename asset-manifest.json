@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pinakidealab-assignment/static/css/main.9c1c6f6a.css",
+    "main.js": "/pinakidealab-assignment/static/js/main.edc06b87.js",
+    "static/js/453.d1ead18a.chunk.js": "/pinakidealab-assignment/static/js/453.d1ead18a.chunk.js",
+    "static/media/water-heater.png": "/pinakidealab-assignment/static/media/water-heater.aa25762d6734991bf077.png",
+    "static/media/mobile_2571330.png": "/pinakidealab-assignment/static/media/mobile_2571330.bf235bdf0b8d2990f81d.png",
+    "static/media/plumbing.png": "/pinakidealab-assignment/static/media/plumbing.3be8b1c2463b5f079b8e.png",
+    "static/media/water-drop.png": "/pinakidealab-assignment/static/media/water-drop.447d631f6be24111698c.png",
+    "index.html": "/pinakidealab-assignment/index.html",
+    "main.9c1c6f6a.css.map": "/pinakidealab-assignment/static/css/main.9c1c6f6a.css.map",
+    "main.edc06b87.js.map": "/pinakidealab-assignment/static/js/main.edc06b87.js.map",
+    "453.d1ead18a.chunk.js.map": "/pinakidealab-assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1c6f6a.css",
+    "static/js/main.edc06b87.js"
+  ]
+}
